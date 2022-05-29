@@ -1,0 +1,14 @@
+whiet sensor :
+https://www.youtube.com/watch?v=sxzoAGf1kOo
+
+___________________________________________
+
+Ultrasonic sensor:
+https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
+
+___________________________________________
+
+PH sensor
+https://circuitdigest.com/microcontroller-projects/arduino-ph-meter
+
+___________________________________________
